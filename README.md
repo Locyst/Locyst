@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Locyst
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on literally nothing if I didnt start it
+- 📫 How to reach me...
+- ⚡ Fun fact: Locyst does not mean anything. wow so fun
