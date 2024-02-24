@@ -18,5 +18,5 @@ I'm a student passionate about computer science, currently focusing on learning 
 ### GitHub Stats
 <sup>Only a C? wow....</sup>
 
-![Locyst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locyst&show_icons=true)
+![Locyst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locyst&theme=date_night&show_icons=true)
 
