@@ -4,7 +4,6 @@ I'm a student passionate about computer science, currently focusing on learning 
 
 - 🔭 I’m currently working on [LocystBridge](https://github.com/Locyst/LocystBridge), a library that serves as a communication bridge between different libraries, hence the name.
 - 🌱 I’m currently learning Python and Java.
-- 📫 I'm open to collaboration or any questions you might have. Feel free to reach out to me via [email](mailto:your.email@example.com).
 
 ### Skills
 
