@@ -16,6 +16,7 @@ I'm a student passionate about computer science, currently focusing on learning 
 - [LocystGame](https://github.com/Locyst/LocystGame): A framework for 2D text-based games, facilitating character creation, map design, and dialogue.
 
 ### GitHub Stats
+<small>Only a C? wow....</small>
 
 ![Locyst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locyst&show_icons=true)
 
