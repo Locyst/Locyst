@@ -1,26 +1,24 @@
-### Hi there, I'm Locyst! 👋
+---
 
-I'm a student passionate about computer science, currently focusing on learning Python and Java. Here's a bit about me:
+# Hi there, I'm Locyst! 👋
 
-- 🔭 I’m currently working on [LocystBridge](https://github.com/Locyst/LocystLibs/tree/main/LocystBridge), a library that serves as a communication bridge between different libraries, hence the name.
-- 🌱 I’m currently learning Python and Java.
+I'm a student researching Computer Science with a keen interest in Python and currently delving into Java. I'm passionate about exploring the depths of software development and honing my skills.
 
-### Skills
+## Projects
 
-- Python
+### LocystBridge
+- A library aimed at facilitating communication between two or more Python modules.
+- Check it out: [LocystBridge](https://github.com/Locyst/LocystLibs/tree/main/LocystBridge)
 
-### Projects
+### LocystLogging
+- A logging library with a special function decorator for seamless auto logging.
+- Explore here: [LocystLogging](https://github.com/Locyst/LocystLibs/tree/main/LocystLogging)
 
-- [LocystBridge](https://github.com/Locyst/LocystLibs/tree/main/LocystBridge): A communication bridge between different libraries or components of a system.
-- [LocystGame](https://github.com/Locyst/LocystLibs/tree/main/LocystGames): A framework for 2D text-based games, facilitating character creation, map design, and dialogue.
+## Interests
+- 🧮 Mathematics enthusiast
+- 💻 Exploring the world of coding and software development
 
-### Goals
+## Favorite Quote
+"The best way to learn is to do; the worst way to teach is to talk." ― Paul Halmos
 
-- Learn git, ya loser.
--  - You need to stop adding new branches for updates by just deleting the whole dir branch then uploading the files
-
-### GitHub Stats
-<sup>Only a C? wow....</sup>
-
-![Locyst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locyst&theme=catppuccin_mocha&show_icons=true)
-
+---
