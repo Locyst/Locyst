@@ -2,7 +2,7 @@
 
 # Hi there, I'm Locyst! 👋
 
-I'm a student researching Computer Science with a keen interest in Python and currently delving into Java. I'm passionate about exploring the depths of software development and honing my skills.
+I'm a student researching Computer Science with an interest in Python and currently delving into Java.
 
 ## Projects
 
@@ -18,7 +18,19 @@ I'm a student researching Computer Science with a keen interest in Python and cu
 - 🧮 Mathematics enthusiast
 - 💻 Exploring the world of coding and software development
 
+## Goals
+
+- Learn git, ya loser.
+-  - It'll make updating large amounts of code so much easier
+
 ## Favorite Quote
 "The best way to learn is to do; the worst way to teach is to talk." ― Paul Halmos
+
+---
+
+### GitHub Stats
+<sup>Only a C? wow....</sup>
+
+![Locyst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Locyst&theme=catppuccin_mocha&show_icons=true)
 
 ---
