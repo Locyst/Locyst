@@ -14,6 +14,11 @@ I'm a student passionate about computer science, currently focusing on learning 
 - [LocystBridge](https://github.com/Locyst/LocystLibs/tree/main/LocystBridge): A communication bridge between different libraries or components of a system.
 - [LocystGame](https://github.com/Locyst/LocystLibs/tree/main/LocystGames): A framework for 2D text-based games, facilitating character creation, map design, and dialogue.
 
+### Issues
+
+- Learn git, ya loser.
+-  - You need to stop adding new branches for updates by just deleting the whole dir branch then uploading the files
+
 ### GitHub Stats
 <sup>Only a C? wow....</sup>
 
